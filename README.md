@@ -1,5 +1,5 @@
 # free-autogpt（免费autogpt）
-用gpt3.5生成cmd命令并经过用户同意运行
+用gpt3.5生成cmd代码并经过用户同意运行
 - 需要安装python（最好是3.11）
 - 需要openai三方库
 
